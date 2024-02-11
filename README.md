@@ -20,8 +20,8 @@ Instruções implementadas abaixo:
 
 | # | Instrução | Implementada | Testada | Funcionando |
 |---|-----------|:-----------:|:-------:|:-----------:|
-| 1  | `JAL`     |      ❌     |    ❌    |      ❌      |
-| 2  | `JALR`    |      ❌     |    ❌    |      ❌      |
+| 1  | `JAL`     |      ✅     |    ✅    |      ✅      |
+| 2  | `JALR`    |      ✅     |    ✅    |      ✅      |
 | 3  | `BNE`     |      ✅     |    ✅    |      ✅      |
 | 4  | `BLT`     |      ✅     |    ✅    |      ✅      |
 | 5  | `BGE`     |      ✅     |    ✅    |      ✅      |
@@ -40,7 +40,7 @@ Instruções implementadas abaixo:
 | 18 | `XOR`     |      ✅     |    ✅    |      ✅      |
 | 19 | `OR`      |      ✅     |    ✅    |      ✅      |
 | 20 | `LUI`     |      ✅     |    ✅    |      ✅      |
-| 21 | `HALT`    |      ❌     |    ❌    |      ❌      |
+| 21 | `HALT`    |      ✅     |    ✅    |      ✅      |
 
 ## Equipe:
   Andreywid Yago Lima de Souza
